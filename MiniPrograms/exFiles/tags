@@ -1,0 +1,196 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ROOMS	gothons_from_planet_percal.py	/^ROOMS = {$/;"	v
+TheThing	gothonsaregettingclassy.py	/^class TheThing(object):$/;"	c	inherits:object
+__init__	gothonsaregettingclassy.py	/^    def __init__(self):$/;"	m	class:TheThing	access:public
+a	gothonsaregettingclassy.py	/^a = TheThing()$/;"	v
+a	printing_printing_printing.py	/^a = 4$/;"	v
+add	functions_can_return_something.py	/^def add(a, b):$/;"	f	access:public
+add_me_up	gothonsaregettingclassy.py	/^    def add_me_up(self, more):$/;"	m	class:TheThing	access:public
+age	asking_questions.py	/^age = raw_input()$/;"	v
+age	functions_can_return_something.py	/^age = add(30, 5)$/;"	v
+age	more_variables_and_printing.py	/^age = 19$/;"	v
+age	prompting_people.py	/^age = raw_input("How old are you? ")$/;"	v
+amount_of_cheese	functions_and_variables.py	/^amount_of_cheese = 10                   #gives a value to the variables$/;"	v
+amount_of_crackers	functions_and_variables.py	/^amount_of_crackers = 50                 #same$/;"	v
+argsfunction	pythonsyntax.py	/^def argsfunction(*args):$/;"	f	access:public
+argv	functions_and_files.py	/^from sys import argv$/;"	i
+argv	more_files.py	/^from sys import argv$/;"	i
+argv	parameters_unpacking_variables.py	/^from sys import argv$/;"	i
+argv	prompting_and_passing.py	/^from sys import argv$/;"	i
+argv	pythonsyntax.py	/^from sys import argv$/;"	i
+argv	reading_and_writing_files.py	/^from sys import argv$/;"	i
+argv	reading_files.py	/^from sys import argv            #regular import, used to import argv$/;"	i
+average_passengers_per_car	variables_and_names.py	/^average_passengers_per_car = passengers \/ cars_driven$/;"	v
+b	gothonsaregettingclassy.py	/^b = TheThing()$/;"	v
+b	printing_printing_printing.py	/^b = 5$/;"	v
+backslash_cat	what_was_that.py	/^backslash_cat = "I'm \\\\ a \\\\ cat."$/;"	v
+bear	making_decisions.py	/^    bear = raw_input("> ")$/;"	v
+bear_room	branches_and_functions.py	/^def bear_room():$/;"	f	access:public
+binary	strings_and_text.py	/^binary = "binary" #assigns the word binary to the variable binary$/;"	v
+break_words	even_more_practice.py	/^def break_words(stuff):$/;"	f	access:public
+break_words	quiz.py	/^def break_words(stuff):$/;"	f	access:public
+bubbleSort	functions_and_variables.py	/^def bubbleSort(numArray):$/;"	f	access:public
+buses	else_and_if.py	/^buses = 15$/;"	v
+c	printing_printing_printing.py	/^c = a + b$/;"	v
+carpool_capacity	variables_and_names.py	/^carpool_capacity = cars_driven * space_in_a_car$/;"	v
+cars	else_and_if.py	/^cars = 40$/;"	v
+cars	variables_and_names.py	/^cars = 100$/;"	v
+cars_driven	variables_and_names.py	/^cars_driven = drivers$/;"	v
+cars_not_driven	variables_and_names.py	/^cars_not_driven = cars - drivers$/;"	v
+cats	what_if.py	/^cats = 30$/;"	v
+central_corridor	gothons_from_planet_percal.py	/^def central_corridor():$/;"	f	access:public
+change	loops_and_lists.py	/^change = [1, 'pennies', 2, 'dimes', 3, 'quarters']$/;"	v
+cheese_and_crackers	functions_and_variables.py	/^def cheese_and_crackers(cheese_count, boxes_of_crackers):       #defines a function that prints statement depending on the variables given$/;"	f	access:public
+cities	dictionaries.py	/^cities = {'CA': 'San Francisco', 'MI': 'Detroit',$/;"	v
+computer	prompting_and_passing.py	/^computer = raw_input(prompt)$/;"	v
+cthulhu_room	branches_and_functions.py	/^def cthulhu_room():$/;"	f	access:public
+current_file	functions_and_files.py	/^current_file = open(input_file)$/;"	v
+current_line	functions_and_files.py	/^current_line = 1$/;"	v
+days	printing_printing_printing.py	/^days = "Mon Tue Wed Thu Fri Sat Sun"$/;"	v
+dead	branches_and_functions.py	/^def dead(why):$/;"	f	access:public
+death	gothons_from_planet_percal.py	/^def death():$/;"	f	access:public
+divide	functions_can_return_something.py	/^def divide(a, b):$/;"	f	access:public
+do_not	strings_and_text.py	/^do_not = "don't" #assigns the word don't to the variable do_not$/;"	v
+dogs	what_if.py	/^dogs = 15$/;"	v
+door	making_decisions.py	/^door = raw_input("> ")$/;"	v
+drivers	variables_and_names.py	/^drivers = 30$/;"	v
+e	strings_and_text.py	/^e = "a string with a right side." #variable string$/;"	v
+elements	loops_and_lists.py	/^elements = []$/;"	v
+end1	more_printing.py	/^end1 = "C"$/;"	v
+end10	more_printing.py	/^end10 = "g"$/;"	v
+end11	more_printing.py	/^end11 = "e"$/;"	v
+end12	more_printing.py	/^end12 = "r"$/;"	v
+end2	more_printing.py	/^end2 = "h"$/;"	v
+end3	more_printing.py	/^end3 = "e"$/;"	v
+end4	more_printing.py	/^end4 = "e"$/;"	v
+end5	more_printing.py	/^end5 = "s"$/;"	v
+end6	more_printing.py	/^end6 = "e"$/;"	v
+end7	more_printing.py	/^end7 = "B"$/;"	v
+end8	more_printing.py	/^end8 = "u"$/;"	v
+end9	more_printing.py	/^end9 = "r"$/;"	v
+escape_pod	gothons_from_planet_percal.py	/^def escape_pod():$/;"	f	access:public
+even_more_practice	uses_even_more_practice.py	/^import even_more_practice$/;"	i
+exists	more_files.py	/^from os.path import exists$/;"	i
+exists	pythonsyntax.py	/^from os.path import exists$/;"	i
+exit	branches_and_functions.py	/^from sys import exit$/;"	i
+exit	gothons_from_planet_percal.py	/^from sys import exit$/;"	i
+eyes	more_variables_and_printing.py	/^eyes = 'Brown'$/;"	v
+file_again	reading_files.py	/^file_again = raw_input("> ")        #new variable assigned to raw_input$/;"	v
+find_city	dictionaries.py	/^def find_city(themap, state):$/;"	f	access:public
+five	more_practice.py	/^five = 10 - 2 + 3 - 6$/;"	v
+five	quiz.py	/^five = 10 - 5$/;"	v
+formatter	printing_printing.py	/^formatter = "%r %r %r %r"$/;"	v
+formatter	pythonsyntax.py	/^formatter = "%r %r %r %r"$/;"	v
+fruits	loops_and_lists.py	/^fruits = ['apples', 'oranges', 'pears', 'apricots']$/;"	v
+functionname	pythonsyntax.py	/^def functionname():$/;"	f	access:public
+gold_room	branches_and_functions.py	/^def gold_room():$/;"	f	access:public
+hair	more_variables_and_printing.py	/^hair = 'Black'$/;"	v
+height	asking_questions.py	/^height = raw_input()$/;"	v
+height	functions_can_return_something.py	/^height = subtract(78, 4)$/;"	v
+height	more_variables_and_printing.py	/^height = 67$/;"	v
+height	prompting_people.py	/^height = raw_input("How tall are you? ")$/;"	v
+hilarious	strings_and_text.py	/^hilarious = False # assigns a value of False to the variable hilarious$/;"	v
+i	while_loop.py	/^    i = i + 1$/;"	v
+i	while_loop.py	/^i = 0$/;"	v
+import	reading_files.py	/^from sys import argv            #regular import, used to import argv$/;"	i
+indata	more_files.py	/^indata = input.read()$/;"	v
+indata	pythonsyntax.py	/^indata = input.read()$/;"	v
+input	more_files.py	/^input = open(from_file)$/;"	v
+input	pythonsyntax.py	/^input = open(filevariablename)$/;"	v
+insanity	making_decisions.py	/^    insanity = raw_input("> ")$/;"	v
+intro	goosybumps.py	/^def intro():$/;"	f	access:public
+iq	functions_can_return_something.py	/^iq = divide(100, 2)$/;"	v
+joke_evaluation	strings_and_text.py	/^joke_evaluation = "Isn't that joke so funny?! %r" #makes joke_evaluation a string that includes a variable %r$/;"	v
+laser_weapon_armory	gothons_from_planet_percal.py	/^def laser_weapon_armory():$/;"	f	access:public
+likes	prompting_and_passing.py	/^likes = raw_input(prompt)$/;"	v
+line1	reading_and_writing_files.py	/^line1 = raw_input("line 1: ")$/;"	v
+line2	reading_and_writing_files.py	/^line2 = raw_input("line 2: ")$/;"	v
+line3	reading_and_writing_files.py	/^line3 = raw_input("line 3: ")$/;"	v
+lives	prompting_and_passing.py	/^lives = raw_input(prompt)$/;"	v
+months	printing_printing_printing.py	/^months = "Jan\\nFeb\\nMar\\nApr\\nMay\\nJun\\nJul\\nAug"$/;"	v
+more_stuff	doing_things_to_lists.py	/^more_stuff = ["Day", "Night", "Song", "Frisbee", "Corn", "Banana", "Girl", "Boy"]$/;"	v
+multiply	functions_can_return_something.py	/^def multiply(a, b):$/;"	f	access:public
+name	goosybumps.py	/^name = trainerName() #users name$/;"	v
+name	more_variables_and_printing.py	/^name = 'James Nguyen'$/;"	v
+next_one	doing_things_to_lists.py	/^    next_one = more_stuff.pop()$/;"	v
+num	functions_and_variables.py	/^    num = raw_input("Enter a number.: ")$/;"	v
+numOne	functions_and_variables.py	/^numOne = []$/;"	v
+numbers	while_loop.py	/^numbers = []$/;"	v
+output	more_files.py	/^output = open(to_file, 'w')     #opens the file with the 'w' being to write to it$/;"	v
+output	pythonsyntax.py	/^output = open(filevariablename, 'w')$/;"	v
+passengers	variables_and_names.py	/^passengers = 90$/;"	v
+people	else_and_if.py	/^people = 30$/;"	v
+people	what_if.py	/^people = 20$/;"	v
+persian_cat	what_was_that.py	/^persian_cat = "I'm split\\non a line."$/;"	v
+pokemon	goosybumps.py	/^pokemon = starterPokemon() #pokemon will be the choice of trainer$/;"	v
+print_a_line	functions_and_files.py	/^def print_a_line(line_count, f):$/;"	f	access:public
+print_all	functions_and_files.py	/^def print_all(f):$/;"	f	access:public
+print_first_and_last	even_more_practice.py	/^def print_first_and_last(sentence):$/;"	f	access:public
+print_first_and_last	quiz.py	/^def print_first_and_last(sentence):$/;"	f	access:public
+print_first_and_last_sorted	even_more_practice.py	/^def print_first_and_last_sorted(sentence):$/;"	f	access:public
+print_first_and_last_sorted	quiz.py	/^def print_first_and_last_sorted(sentence):$/;"	f	access:public
+print_first_word	even_more_practice.py	/^def print_first_word(words):$/;"	f	access:public
+print_first_word	quiz.py	/^def print_first_word(words):$/;"	f	access:public
+print_last_word	even_more_practice.py	/^def print_last_word(words):$/;"	f	access:public
+print_last_word	quiz.py	/^def print_last_word(words):$/;"	f	access:public
+print_none	names_variables_code_functions.py	/^def print_none():$/;"	f	access:public
+print_one	names_variables_code_functions.py	/^def print_one(arg1):$/;"	f	access:public
+print_two	names_variables_code_functions.py	/^def print_two(*args):$/;"	f	access:public
+print_two_again	names_variables_code_functions.py	/^def print_two_again(arg1, arg2):$/;"	f	access:public
+prompt	prompting_and_passing.py	/^prompt = '> '$/;"	v
+prompt	pythonsyntax.py	/^prompt = '> '$/;"	v
+randint	gothons_from_planet_percal.py	/^from random import randint$/;"	i
+read	reading_and_writing_files.py	/^read = open(filename)$/;"	v
+regular	reading_files.py	/^from sys import argv            #regular import, used to import argv$/;"	i
+returnfunction	pythonsyntax.py	/^def returnfunction(a,b):$/;"	f	access:public
+rewind	functions_and_files.py	/^def rewind(f):$/;"	f	access:public
+rivalName	goosybumps.py	/^rivalName = rival_appears() #rival gets his name here$/;"	v
+rival_appears	goosybumps.py	/^def rival_appears():$/;"	f	access:public
+runner	gothons_from_planet_percal.py	/^def runner(map, start):$/;"	f	access:public
+secret_formula	more_practice.py	/^def secret_formula(started):$/;"	f	access:public
+secret_formula	quiz.py	/^def secret_formula(started):$/;"	f	access:public
+sentence	quiz.py	/^sentence = "All god \\t things come to those who weight."$/;"	v
+sentence	uses_even_more_practice.py	/^sentence = "Blah Blah Blah"$/;"	v
+some_function	gothonsaregettingclassy.py	/^    def some_function(self):$/;"	m	class:TheThing	access:public
+sort_sentence	even_more_practice.py	/^def sort_sentence(sentence):$/;"	f	access:public
+sort_sentence	quiz.py	/^def sort_sentence(sentence):$/;"	f	access:public
+sort_words	even_more_practice.py	/^def sort_words(words):$/;"	f	access:public
+sort_words	quiz.py	/^def sort_words(words):$/;"	f	access:public
+sorted_words	quiz.py	/^sorted_words = sort_sentence(sentence)$/;"	v
+sorted_words	quiz.py	/^sorted_words = sort_words(words)$/;"	v
+space_in_a_car	variables_and_names.py	/^space_in_a_car = 4.0$/;"	v
+start	branches_and_functions.py	/^def start():$/;"	f	access:public
+start_point	more_practice.py	/^start_point = 10000$/;"	v
+start_point	more_practice.py	/^start_point = start_point \/ 10$/;"	v
+start_point	quiz.py	/^start_point = 10000$/;"	v
+start_point	quiz.py	/^start_point = start_point \/ 10$/;"	v
+starterPokemon	goosybumps.py	/^def starterPokemon():$/;"	f	access:public
+stuff	doing_things_to_lists.py	/^stuff = ten_things.split(' ')$/;"	v
+subtract	functions_can_return_something.py	/^def subtract(a, b):$/;"	f	access:public
+tabby_cat	what_was_that.py	/^tabby_cat = "\\tI'm tabbed in."$/;"	v
+target	reading_and_writing_files.py	/^target = open(filename, 'w')$/;"	v
+teeth	more_variables_and_printing.py	/^teeth = 'White'$/;"	v
+ten_things	doing_things_to_lists.py	/^ten_things = "Apples Oranges Crows Telephone Light Sugar"$/;"	v
+the_bridge	gothons_from_planet_percal.py	/^def the_bridge():$/;"	f	access:public
+the_count	loops_and_lists.py	/^the_count = [1,2,3,4,5]$/;"	v
+to	reading_files.py	/^from sys import argv            #regular import, used to import argv$/;"	i
+trainerName	goosybumps.py	/^def trainerName():$/;"	f	access:public
+txt	reading_files.py	/^txt = open(filename)            #opening a file, in short you have to pass a file to run this script$/;"	v
+txt_again	reading_files.py	/^txt_again = open(file_again)$/;"	v
+used	reading_files.py	/^from sys import argv            #regular import, used to import argv$/;"	i
+variable	pythonsyntax.py	/^variable = raw_input()$/;"	v
+variable	pythonsyntax.py	/^variable = raw_input(prompt)$/;"	v
+w	strings_and_text.py	/^w = "This is the left side of ... " #variable string$/;"	v
+weight	asking_questions.py	/^weight = raw_input()$/;"	v
+weight	functions_can_return_something.py	/^weight = multiply(90, 2)$/;"	v
+weight	more_variables_and_printing.py	/^weight = 140$/;"	v
+weight	prompting_people.py	/^weight = raw_input("How much do you weigh? ")$/;"	v
+what	functions_can_return_something.py	/^what = add(age, subtract(height, multiply(weight, divide(iq, 2))))$/;"	v
+words	quiz.py	/^words = break_words(sentence)$/;"	v
+x	strings_and_text.py	/^x = "There are %d types of people." % 10 #assigns a string to x$/;"	v
+y	strings_and_text.py	/^y = "Those who know %s and those who %s." % (binary, do_not) #replaces %s and %s with the two variables$/;"	v
