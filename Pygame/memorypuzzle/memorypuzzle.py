@@ -124,7 +124,6 @@ def generateRevealedBoxesData(val):
         revealedBoxes.append([val] * BOARDHEIGHT)
     return revealedBoxes
 
-
 def getRandomizedBoard():
     # get a list of every possible shape in every color
     icons = []
@@ -234,7 +233,6 @@ def drawBoard(board, revealed):
 def drawHighlightBox(boxx, boxy):
     left, top = leftTopCoordsOfBox(boxx, boxy)
     pygame.draw.rect(DISPLAYSURF, HIGHLIGHTCOLOR, (left-5, top-5, BOXSIZE + 10, BOXSIZE+10), 4)
-
 
 def startGameAnimation(board):
     # randomly reveal the boxes 8 at a time
