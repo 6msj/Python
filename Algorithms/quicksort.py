@@ -1,17 +1,18 @@
 from random import randint
 
-list = [2,3,44,22,11,44,55,33]
 
-def quicksort(list):
-    if(len(list) <= 1):
-        return list
-    pivot = [list.pop(randint(0, len(list)-1))] 
+def quicksort(qlist):
+    """ Quicksort """
+    if(len(qlist) <= 1):
+        return qlist
+    pivot = [qlist.pop(randint(0, len(qlist) - 1))]
     less, more = [], []
-    for value in list:
+    for value in qlist:
         if(value <= pivot[0]):
             less.append(value)
         else:
             more.append(value)
     return quicksort(less) + pivot + quicksort(more)
 
-print quicksort(list)
+nlist = [2, 3, 44, 22, 11, 44, 55, 33]
+print quicksort(nlist)

@@ -1,0 +1,158 @@
+
+
+times in msec
+ clock   self+sourced   self:  sourced script
+ clock   elapsed:              other lines
+
+000.005  000.005: --- VIM STARTING ---
+000.077  000.072: Allocated generic buffers
+000.193  000.116: locale set
+000.204  000.011: GUI prepared
+000.207  000.003: clipboard setup
+000.212  000.005: window checked
+000.700  000.488: inits 1
+000.833  000.133: parsing arguments
+007.924  007.091: expanding arguments
+011.206  003.282: shell init
+011.643  000.437: Termcap init
+011.720  000.077: inits 2
+014.518  002.798: init highlight
+014.801  000.183  000.183: sourcing $VIM/vimrc
+036.678  020.551  020.551: sourcing /usr/local/Cellar/macvim/7.3-66/MacVim.app/Contents/Resources/vim/runtime/filetype.vim
+036.837  000.058  000.058: sourcing /usr/local/Cellar/macvim/7.3-66/MacVim.app/Contents/Resources/vim/runtime/ftplugin.vim
+036.962  000.054  000.054: sourcing /usr/local/Cellar/macvim/7.3-66/MacVim.app/Contents/Resources/vim/runtime/indent.vim
+037.715  000.412  000.412: sourcing /usr/local/Cellar/macvim/7.3-66/MacVim.app/Contents/Resources/vim/runtime/syntax/syncolor.vim
+037.841  000.630  000.218: sourcing /usr/local/Cellar/macvim/7.3-66/MacVim.app/Contents/Resources/vim/runtime/syntax/synload.vim
+037.883  000.759  000.129: sourcing /usr/local/Cellar/macvim/7.3-66/MacVim.app/Contents/Resources/vim/runtime/syntax/syntax.vim
+038.596  000.317  000.317: sourcing /usr/local/Cellar/macvim/7.3-66/MacVim.app/Contents/Resources/vim/runtime/syntax/syncolor.vim
+040.042  000.523  000.523: sourcing /usr/local/Cellar/macvim/7.3-66/MacVim.app/Contents/Resources/vim/runtime/syntax/syncolor.vim
+040.718  000.520  000.520: sourcing /usr/local/Cellar/macvim/7.3-66/MacVim.app/Contents/Resources/vim/runtime/syntax/syncolor.vim
+057.308  018.357  017.314: sourcing /Users/james/.vim/colors/badwolf.vim
+058.659  000.154  000.154: sourcing /Users/james/.vim/bundle/vundle/autoload/vundle.vim
+058.933  000.148  000.148: sourcing /Users/james/.vim/bundle/vundle/autoload/vundle/config.vim
+089.322  074.448  033.050: sourcing $HOME/.vimrc
+089.335  000.186: sourcing vimrc file(s)
+090.166  000.447  000.447: sourcing /Users/james/.vim/bundle/clang_complete/plugin/clang_complete.vim
+090.397  000.119  000.119: sourcing /Users/james/.vim/bundle/vim-peepopen/plugin/peepopen.vim
+091.104  000.529  000.529: sourcing /Users/james/.vim/bundle/L9/autoload/l9.vim
+091.285  000.781  000.252: sourcing /Users/james/.vim/bundle/L9/plugin/l9.vim
+101.346  009.940  009.940: sourcing /Users/james/.vim/bundle/LustyExplorer/plugin/lusty-explorer.vim
+102.731  001.216  001.216: sourcing /Users/james/.vim/bundle/bufkill.vim/plugin/bufkill.vim
+104.375  001.497  001.497: sourcing /Users/james/.vim/bundle/Colour-Sampler-Pack/plugin/color_sample_pack.vim
+106.483  002.067  002.067: sourcing /Users/james/.vim/bundle/Colour-Sampler-Pack/plugin/mimicpak.vim
+107.081  000.465  000.465: sourcing /Users/james/.vim/bundle/ScrollColors/plugin/ScrollColor.vim
+108.192  000.996  000.996: sourcing /Users/james/.vim/bundle/CSApprox/plugin/CSApprox.vim
+108.578  000.266  000.266: sourcing /Users/james/.vim/bundle/tagbar/plugin/tagbar.vim
+109.115  000.082  000.082: sourcing /Users/james/.vim/bundle/syntastic/plugin/syntastic/autoloclist.vim
+109.240  000.091  000.091: sourcing /Users/james/.vim/bundle/syntastic/plugin/syntastic/balloons.vim
+109.387  000.115  000.115: sourcing /Users/james/.vim/bundle/syntastic/plugin/syntastic/checker.vim
+109.513  000.094  000.094: sourcing /Users/james/.vim/bundle/syntastic/plugin/syntastic/cursor.vim
+109.644  000.099  000.099: sourcing /Users/james/.vim/bundle/syntastic/plugin/syntastic/highlighting.vim
+109.837  000.161  000.161: sourcing /Users/james/.vim/bundle/syntastic/plugin/syntastic/loclist.vim
+109.962  000.093  000.093: sourcing /Users/james/.vim/bundle/syntastic/plugin/syntastic/makeprg_builder.vim
+110.080  000.087  000.087: sourcing /Users/james/.vim/bundle/syntastic/plugin/syntastic/modemap.vim
+110.176  000.065  000.065: sourcing /Users/james/.vim/bundle/syntastic/plugin/syntastic/notifiers.vim
+110.401  000.194  000.194: sourcing /Users/james/.vim/bundle/syntastic/plugin/syntastic/registry.vim
+110.648  000.189  000.189: sourcing /Users/james/.vim/bundle/syntastic/plugin/syntastic/signs.vim
+111.005  000.017  000.017: sourcing /Users/james/.vim/bundle/syntastic/plugin/syntastic/autoloclist.vim
+111.050  000.015  000.015: sourcing /Users/james/.vim/bundle/syntastic/plugin/syntastic/balloons.vim
+111.093  000.014  000.014: sourcing /Users/james/.vim/bundle/syntastic/plugin/syntastic/checker.vim
+111.135  000.014  000.014: sourcing /Users/james/.vim/bundle/syntastic/plugin/syntastic/cursor.vim
+111.176  000.013  000.013: sourcing /Users/james/.vim/bundle/syntastic/plugin/syntastic/highlighting.vim
+111.216  000.012  000.012: sourcing /Users/james/.vim/bundle/syntastic/plugin/syntastic/loclist.vim
+111.256  000.012  000.012: sourcing /Users/james/.vim/bundle/syntastic/plugin/syntastic/makeprg_builder.vim
+111.294  000.011  000.011: sourcing /Users/james/.vim/bundle/syntastic/plugin/syntastic/modemap.vim
+111.332  000.010  000.010: sourcing /Users/james/.vim/bundle/syntastic/plugin/syntastic/notifiers.vim
+111.370  000.010  000.010: sourcing /Users/james/.vim/bundle/syntastic/plugin/syntastic/registry.vim
+111.408  000.010  000.010: sourcing /Users/james/.vim/bundle/syntastic/plugin/syntastic/signs.vim
+112.814  002.133  001.995: sourcing /Users/james/.vim/bundle/syntastic/plugin/syntastic.vim
+114.756  001.261  001.261: sourcing /Users/james/.vim/bundle/nerdtree/autoload/nerdtree.vim
+116.324  000.640  000.640: sourcing /Users/james/.vim/bundle/nerdtree/lib/nerdtree/path.vim
+116.608  000.183  000.183: sourcing /Users/james/.vim/bundle/nerdtree/lib/nerdtree/menu_controller.vim
+116.823  000.122  000.122: sourcing /Users/james/.vim/bundle/nerdtree/lib/nerdtree/menu_item.vim
+117.059  000.146  000.146: sourcing /Users/james/.vim/bundle/nerdtree/lib/nerdtree/key_map.vim
+117.449  000.298  000.298: sourcing /Users/james/.vim/bundle/nerdtree/lib/nerdtree/bookmark.vim
+118.018  000.472  000.472: sourcing /Users/james/.vim/bundle/nerdtree/lib/nerdtree/tree_file_node.vim
+118.633  000.516  000.516: sourcing /Users/james/.vim/bundle/nerdtree/lib/nerdtree/tree_dir_node.vim
+118.982  000.246  000.246: sourcing /Users/james/.vim/bundle/nerdtree/lib/nerdtree/opener.vim
+119.379  000.305  000.305: sourcing /Users/james/.vim/bundle/nerdtree/lib/nerdtree/creator.vim
+131.740  000.143  000.143: sourcing /Users/james/.vim/bundle/nerdtree/nerdtree_plugin/exec_menuitem.vim
+132.445  000.668  000.668: sourcing /Users/james/.vim/bundle/nerdtree/nerdtree_plugin/fs_menu.vim
+133.350  020.416  015.416: sourcing /Users/james/.vim/bundle/nerdtree/plugin/NERD_tree.vim
+139.588  006.123  006.123: sourcing /Users/james/.vim/bundle/nerdcommenter/plugin/NERD_commenter.vim
+139.932  000.056  000.056: sourcing /Users/james/.vim/bundle/vim-easytags/autoload/xolox/misc/os.vim
+140.466  000.227  000.227: sourcing /Users/james/.vim/bundle/vim-easytags/autoload/xolox/misc/path.vim
+159.641  000.087  000.087: sourcing /Users/james/.vim/bundle/vim-easytags/autoload/xolox/misc/compat.vim
+162.368  000.258  000.258: sourcing /Users/james/.vim/bundle/vim-easytags/autoload/xolox/misc/option.vim
+163.082  003.762  003.417: sourcing /Users/james/.vim/bundle/vim-easytags/autoload/xolox/easytags.vim
+163.888  024.168  020.123: sourcing /Users/james/.vim/bundle/vim-easytags/plugin/easytags.vim
+168.669  004.613  004.613: sourcing /Users/james/.vim/bundle/delimitMate/plugin/delimitMate.vim
+170.190  001.189  001.189: sourcing /Users/james/.vim/bundle/vim-easymotion/autoload/EasyMotion.vim
+172.476  003.646  002.457: sourcing /Users/james/.vim/bundle/vim-easymotion/plugin/EasyMotion.vim
+172.711  000.066  000.066: sourcing /Users/james/.vim/bundle/cocoa.vim/plugin/cocoa.vim
+180.647  007.827  007.827: sourcing /Users/james/.vim/bundle/Command-T/plugin/command-t.vim
+181.921  001.122  001.122: sourcing /Users/james/.vim/bundle/vim-surround/plugin/surround.vim
+182.515  000.453  000.453: sourcing /Users/james/.vim/bundle/vim-rails/plugin/rails.vim
+184.684  002.053  002.053: sourcing /Users/james/.vim/bundle/vim-bundler/plugin/bundler.vim
+189.059  004.248  004.248: sourcing /Users/james/.vim/bundle/vim-fugitive/plugin/fugitive.vim
+189.613  000.400  000.400: sourcing /Users/james/.vim/bundle/vim-endwise/plugin/endwise.vim
+190.106  000.379  000.379: sourcing /Users/james/.vim/bundle/vim-eunuch/plugin/eunuch.vim
+190.513  000.287  000.287: sourcing /Users/james/.vim/bundle/ack.vim/plugin/ack.vim
+190.941  000.320  000.320: sourcing /Users/james/.vim/bundle/vim-rooter/plugin/rooter.vim
+192.025  000.975  000.975: sourcing /Users/james/.vim/bundle/vim-gitgutter/plugin/gitgutter.vim
+192.456  000.146  000.146: sourcing /Users/james/.vim/bundle/neocomplcache/plugin/neocomplcache/buffer_complete.vim
+192.573  000.081  000.081: sourcing /Users/james/.vim/bundle/neocomplcache/plugin/neocomplcache/dictionary_complete.vim
+192.685  000.079  000.079: sourcing /Users/james/.vim/bundle/neocomplcache/plugin/neocomplcache/include_complete.vim
+192.795  000.078  000.078: sourcing /Users/james/.vim/bundle/neocomplcache/plugin/neocomplcache/syntax_complete.vim
+192.910  000.083  000.083: sourcing /Users/james/.vim/bundle/neocomplcache/plugin/neocomplcache/tags_complete.vim
+193.697  000.754  000.754: sourcing /Users/james/.vim/bundle/neocomplcache/plugin/neocomplcache.vim
+194.351  000.538  000.538: sourcing /Users/james/.vim/bundle/neosnippet/plugin/neosnippet.vim
+194.565  000.082  000.082: sourcing /Users/james/.vim/bundle/gundo.vim/plugin/gundo.vim
+194.943  000.269  000.269: sourcing /Users/james/.vim/bundle/numbers.vim/plugin/numbers.vim
+195.328  000.258  000.258: sourcing /Users/james/.vim/bundle/jedi-vim/plugin/jedi.vim
+196.811  000.063  000.063: sourcing /Users/james/.vim/eclim/plugin/django.vim
+223.500  001.650  001.650: sourcing /Users/james/.vim/eclim/autoload/eclim/util.vim
+224.896  003.688  002.038: sourcing /Users/james/.vim/eclim/autoload/eclim/util.vim
+226.125  000.414  000.414: sourcing /Users/james/.vim/eclim/autoload/eclim/common/buffers.vim
+226.297  029.452  025.350: sourcing /Users/james/.vim/eclim/plugin/eclim.vim
+226.441  000.106  000.106: sourcing /Users/james/.vim/eclim/plugin/ftdetect.vim
+226.712  000.239  000.239: sourcing /Users/james/.vim/eclim/plugin/ftdetect_jdt.vim
+227.020  000.274  000.274: sourcing /Users/james/.vim/eclim/plugin/java_tools.vim
+227.682  000.627  000.627: sourcing /Users/james/.vim/eclim/plugin/project.vim
+227.775  000.057  000.057: sourcing /Users/james/.vim/eclim/plugin/vimplugin.vim
+229.026  033.596  002.778: sourcing /Users/james/.vim/plugin/eclim.vim
+229.589  000.122  000.122: sourcing /usr/local/Cellar/macvim/7.3-66/MacVim.app/Contents/Resources/vim/runtime/plugin/getscriptPlugin.vim
+229.943  000.317  000.317: sourcing /usr/local/Cellar/macvim/7.3-66/MacVim.app/Contents/Resources/vim/runtime/plugin/gzip.vim
+230.224  000.229  000.229: sourcing /usr/local/Cellar/macvim/7.3-66/MacVim.app/Contents/Resources/vim/runtime/plugin/matchparen.vim
+230.885  000.619  000.619: sourcing /usr/local/Cellar/macvim/7.3-66/MacVim.app/Contents/Resources/vim/runtime/plugin/netrwPlugin.vim
+231.013  000.085  000.085: sourcing /usr/local/Cellar/macvim/7.3-66/MacVim.app/Contents/Resources/vim/runtime/plugin/rrhelper.vim
+231.112  000.062  000.062: sourcing /usr/local/Cellar/macvim/7.3-66/MacVim.app/Contents/Resources/vim/runtime/plugin/spellfile.vim
+231.359  000.210  000.210: sourcing /usr/local/Cellar/macvim/7.3-66/MacVim.app/Contents/Resources/vim/runtime/plugin/tarPlugin.vim
+231.545  000.147  000.147: sourcing /usr/local/Cellar/macvim/7.3-66/MacVim.app/Contents/Resources/vim/runtime/plugin/tohtml.vim
+231.789  000.207  000.207: sourcing /usr/local/Cellar/macvim/7.3-66/MacVim.app/Contents/Resources/vim/runtime/plugin/vimballPlugin.vim
+232.013  000.182  000.182: sourcing /usr/local/Cellar/macvim/7.3-66/MacVim.app/Contents/Resources/vim/runtime/plugin/zipPlugin.vim
+277.131  044.940  044.940: sourcing /Users/james/.vim/bundle/powerline/powerline/bindings/vim/plugin/powerline.vim
+308.270  000.069  000.069: sourcing /usr/local/Cellar/macvim/7.3-66/MacVim.app/Contents/Resources/vim/runtime/syntax/syncolor.vim
+308.611  031.229  031.160: sourcing /Users/james/.vim/bundle/CSApprox/after/plugin/CSApprox.vim
+308.940  006.999: loading plugins
+308.978  000.038: inits 3
+311.112  002.134: reading viminfo
+311.139  000.027: setting raw mode
+311.148  000.009: start termcap
+311.190  000.042: clearing screen
+362.563  047.399  047.399: sourcing /Users/james/.vim/bundle/jedi-vim/autoload/jedi.vim
+362.710  048.240  000.841: sourcing /Users/james/.vim/bundle/jedi-vim/ftplugin/python/jedi.vim
+362.916  000.060  000.060: sourcing /usr/local/Cellar/macvim/7.3-66/MacVim.app/Contents/Resources/vim/runtime/ftplugin/python.vim
+364.379  000.243  000.243: sourcing /Users/james/.vim/eclim/ftplugin/python.vim
+365.005  000.273  000.273: sourcing /usr/local/Cellar/macvim/7.3-66/MacVim.app/Contents/Resources/vim/runtime/indent/python.vim
+366.635  000.865  000.865: sourcing /usr/local/Cellar/macvim/7.3-66/MacVim.app/Contents/Resources/vim/runtime/syntax/python.vim
+367.472  000.268  000.268: sourcing /Users/james/.vim/bundle/jedi-vim/after/syntax/python.vim
+380.045  000.480  000.480: sourcing /Users/james/.vim/eclim/autoload/eclim/display/signs.vim
+380.721  019.102: opening buffers
+381.376  000.359  000.359: sourcing /Users/james/.vim/bundle/syntastic/autoload/syntastic/util.vim
+408.836  027.756: BufEnter autocommands
+408.849  000.013: editing files in windows
+463.596  054.747: VimEnter autocommands
+463.603  000.007: before starting main loop
+464.768  001.165: first screen update
+464.770  000.002: --- VIM STARTED ---

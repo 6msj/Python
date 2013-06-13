@@ -1,5 +1,8 @@
 _list = [1, 2, 3, 123123, 22, 33, 4, 22, 11, 22323, 44]
 
+# Compare from right to left.
+# The bigger the index gets, the more compares you will have to do.
+
 
 def insertion_sort(list):
     for index in range(1, len(list)):
