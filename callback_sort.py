@@ -12,6 +12,13 @@ def insertion_sort(s):
     return s
 
 
+# SelectionSort(A)
+#   For i = 1 to n do
+#       Sort[i] = Find-Minimum from A
+#       Delete-Minimum from A
+#   Return(Sort)
+
+
 def selection_sort(s):
     n = len(s)
     for i in range(0, n):
